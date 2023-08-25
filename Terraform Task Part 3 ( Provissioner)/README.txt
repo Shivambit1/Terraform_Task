@@ -21,3 +21,5 @@ Below are the command which one need to apply after code creation
 • terraform apply - Create or update infrastructure.
 
 • terraform destroy - Destroy previously created infrastructure.
+
+https://developer.hashicorp.com/terraform/language/resources/provisioners/syntax
